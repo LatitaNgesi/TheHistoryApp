@@ -1,8 +1,8 @@
 # History App
 
-#### \*Interface
+### Interface
 
-![enter image description here](https://raw.githubusercontent.com/JeciraMiguel/HistoryApp/main/screenshot/User%20interface.png?token=GHSAT0AAAAAACQYESOSQ32HNMP3NGGXE7FEZQVLGCA)
+![enter image description here](https://github.com/LatitaNgesi/TheHistoryApp/blob/main/screens/screen.png?raw=true)
 
 ## Author
 
